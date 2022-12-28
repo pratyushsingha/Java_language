@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author pratyush
- *
- */
-module javaProject {
-}
